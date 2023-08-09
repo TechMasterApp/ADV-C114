@@ -1,0 +1,18 @@
+body {
+    background-image: url("background.jpg");
+    text-align: center;
+}
+
+#notabutton {
+    margin-top: 50px;
+    font-size: x-large;
+}
+
+canvas {
+    border-style: ridge;
+    border-width: 5px;
+}
+
+circle {
+    color: red;
+}
